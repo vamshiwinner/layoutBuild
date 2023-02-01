@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.body-conatiner1 {
+  display: flex;
+  width: 30%;
+  background-color: #cbd5e1;
+  color: #64748b;
+  margin-top: 5px;
+  margin-right: 5px;
+  padding: 30px;
+  flex-direction: column;
+}
+.body-bg {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+.body-conatiner2 {
+  display: flex;
+  width: 40%;
+  background-color: #cbd5e1;
+  color: #64748b;
+  margin-top: 5px;
+  margin-right: 5px;
+  padding: 30px;
+  flex-direction: column;
+}
+.body-conatiner3 {
+  display: flex;
+  width: 30%;
+  background-color: #cbd5e1;
+  color: #64748b;
+  margin-top: 5px;
+  padding: 30px;
+  flex-direction: column;
+}
+.list-item {
+  list-style-type: none;
+}

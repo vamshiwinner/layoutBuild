@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list {
+  list-style-type: none;
+}
+.heading {
+  font-size: 20px;
+  margin: 0px;
+}
+.layout-bg {
+  background-color: #475569;
+  color: #ffffff;
+  padding: 30px;
+}
+.ul-container {
+  margin: 0px;
+  padding: 0px;
+}
